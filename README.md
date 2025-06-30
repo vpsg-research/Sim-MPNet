@@ -9,7 +9,7 @@
 Release the complete code
 
 ## ⭐ Abstract
-- In recent years, it has been found that “grandmother cells” in the primary visual cortex (V1) of macaques can directly recognize visual input with complex shapes. This inspires us to examine the value of these cells in promoting the research of medical image segmentation. In this paper, we design a Similarity Memory Prior Network (Sim-MPNet) for medical image segmentation. Specifically, we propose a Dynamic Memory Weights–Loss Attention (DMW-LA), which matches and remembers the category features of specific lesions or organs in medical images through the similarity memory prior in the prototype memory bank, thus helping the network to learn subtle texture changes between categories. DMW-LA also dynamically updates the similarity memory prior in reverse through Weight-Loss Dynamic (W-LD) update strategy, effectively assisting the network directly extract category features. In addition, we propose the Double-Similarity Global Internal Enhancement Module (DS-GIM) to deeply explore the internal differences in the feature distribution of input data through cosine similarity and euclidean distance. Extensive experiments on four public datasets show that Sim-MPNet has better segmentation performance than other state-of-the-art methods.
+In recent years, it has been found that “grandmother cells” in the primary visual cortex (V1) of macaques can directly recognize visual input with complex shapes. This inspires us to examine the value of these cells in promoting the research of medical image segmentation. In this paper, we design a Similarity Memory Prior Network (Sim-MPNet) for medical image segmentation. Specifically, we propose a Dynamic Memory Weights–Loss Attention (DMW-LA), which matches and remembers the category features of specific lesions or organs in medical images through the similarity memory prior in the prototype memory bank, thus helping the network to learn subtle texture changes between categories. DMW-LA also dynamically updates the similarity memory prior in reverse through Weight-Loss Dynamic (W-LD) update strategy, effectively assisting the network directly extract category features. In addition, we propose the Double-Similarity Global Internal Enhancement Module (DS-GIM) to deeply explore the internal differences in the feature distribution of input data through cosine similarity and euclidean distance. Extensive experiments on four public datasets show that Sim-MPNet has better segmentation performance than other state-of-the-art methods.
 
 ## 🚀 Introduction
 
@@ -17,13 +17,13 @@ Release the complete code
     <img width="400" alt="image" src="figures/Motivation.png?raw=true">
 </div>
 
-Motivation. (a) Schematic diagram of the primate visual system. (b) We use similarity memory priors stored in the prototype memory bank to imitate “grandmother cells” in V1, and utilize these features to directly match various organs in medical images.
+- Motivation. (a) Schematic diagram of the primate visual system. (b) We use similarity memory priors stored in the prototype memory bank to imitate “grandmother cells” in V1, and utilize these features to directly match various organs in medical images.
 
 <div align="center">
     <img width="600" alt="image" src="figures/Introduction.png?raw=true">
 </div>
 
-Compared with the existing works. DMW-LA uses similarity memory priors to directly identify and extract category features of organs.
+- Compared with the existing works. DMW-LA uses similarity memory priors to directly identify and extract category features of organs.
 
 ## 📻 Overview
 
@@ -31,7 +31,7 @@ Compared with the existing works. DMW-LA uses similarity memory priors to direct
 <img width="700" alt="image" src="figures/Sim-MPNet.png?raw=true">
 </div>
 
-Overview of Sim-MPNet. The network consists of two encoders, one decoder and one skip connection, and it efficiently models intra-class and global dependencies of input features through the dual encoder structure.
+- Overview of Sim-MPNet. The network consists of two encoders, one decoder and one skip connection, and it efficiently models intra-class and global dependencies of input features through the dual encoder structure.
 
 ## 🎮 Getting Started
 
