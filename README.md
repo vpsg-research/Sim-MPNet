@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Sim-MPNet: Learning Category-Aware Localization with Similarity Memory Priors for Medical Image Segmentation </h1>
+<h1> [ICCV 2025] Sim-MPNet: Learning Category-Aware Localization with Similarity Memory Priors for Medical Image Segmentation </h1>
 </div>
 
 ## 🎈 News
