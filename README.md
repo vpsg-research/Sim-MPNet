@@ -1,5 +1,5 @@
 <div align="center">
-<h1> [ICCV 2025] Sim-MPNet: Learning Category-Aware Localization with Similarity Memory Priors for Medical Image Segmentation </h1>
+<h1> [ICCV 2025] Similarity Memory Prior is All You Need for Medical Image Segmentation </h1>
 </div>
 
 ## 🎈 News
@@ -103,7 +103,7 @@ python -W ignore test_synapse.py
 
 ```
 @inproceedings{simmpnet,
-  title={Sim-MPNet: Learning Category-Aware Localization with Similarity Memory Priors for Medical Image Segmentation},
+  title={Similarity Memory Prior is All You Need for Medical Image Segmentation},
   author={Hao Tang, Zhiqing Guo, Liejun Wang and Chao Liu},
   booktitle={International Conference on Computer Vision (ICCV)},
   month={June},
