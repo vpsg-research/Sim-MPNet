@@ -1,0 +1,45 @@
+[17:00:54.438] 40 test iterations per epoch
+[17:00:56.870] idx 0 case patient00801 mean_dice 0.935583 mean_hd95 1.000000, mean_jacard 0.881473 mean_asd 0.186116
+[17:00:58.750] idx 1 case patient00813 mean_dice 0.925835 mean_hd95 1.000000, mean_jacard 0.863396 mean_asd 0.217261
+[17:01:00.689] idx 2 case patient01001 mean_dice 0.936110 mean_hd95 1.000000, mean_jacard 0.882027 mean_asd 0.180892
+[17:01:02.582] idx 3 case patient01013 mean_dice 0.936640 mean_hd95 1.000000, mean_jacard 0.883196 mean_asd 0.180883
+[17:01:04.566] idx 4 case patient01301 mean_dice 0.940945 mean_hd95 1.000000, mean_jacard 0.889289 mean_asd 0.149185
+[17:01:06.366] idx 5 case patient01314 mean_dice 0.933150 mean_hd95 1.000000, mean_jacard 0.875566 mean_asd 0.184708
+[17:01:08.356] idx 6 case patient01401 mean_dice 0.897409 mean_hd95 1.138071, mean_jacard 0.817423 mean_asd 0.212735
+[17:01:10.466] idx 7 case patient01413 mean_dice 0.936752 mean_hd95 1.000000, mean_jacard 0.883109 mean_asd 0.110630
+[17:01:12.396] idx 8 case patient01601 mean_dice 0.917590 mean_hd95 1.138071, mean_jacard 0.851133 mean_asd 0.301504
+[17:01:14.456] idx 9 case patient01612 mean_dice 0.922859 mean_hd95 1.000000, mean_jacard 0.859661 mean_asd 0.259795
+[17:01:16.123] idx 10 case patient01701 mean_dice 0.905566 mean_hd95 1.000000, mean_jacard 0.835429 mean_asd 0.243936
+[17:01:18.076] idx 11 case patient01709 mean_dice 0.934142 mean_hd95 1.000000, mean_jacard 0.879246 mean_asd 0.187770
+[17:01:20.333] idx 12 case patient01901 mean_dice 0.954635 mean_hd95 1.000000, mean_jacard 0.914352 mean_asd 0.129262
+[17:01:22.668] idx 13 case patient01911 mean_dice 0.950233 mean_hd95 1.000000, mean_jacard 0.905890 mean_asd 0.144168
+[17:01:24.458] idx 14 case patient02501 mean_dice 0.913939 mean_hd95 1.000000, mean_jacard 0.843188 mean_asd 0.258294
+[17:01:26.235] idx 15 case patient02509 mean_dice 0.859155 mean_hd95 1.853493, mean_jacard 0.754438 mean_asd 0.401113
+[17:01:28.163] idx 16 case patient02601 mean_dice 0.934568 mean_hd95 1.000000, mean_jacard 0.877628 mean_asd 0.209064
+[17:01:29.989] idx 17 case patient02612 mean_dice 0.904193 mean_hd95 1.000000, mean_jacard 0.826467 mean_asd 0.283682
+[17:01:31.784] idx 18 case patient02701 mean_dice 0.894292 mean_hd95 1.138071, mean_jacard 0.810057 mean_asd 0.373005
+[17:01:33.689] idx 19 case patient02711 mean_dice 0.839854 mean_hd95 2.230710, mean_jacard 0.724259 mean_asd 0.561823
+[17:01:35.489] idx 20 case patient04701 mean_dice 0.920287 mean_hd95 1.000000, mean_jacard 0.855120 mean_asd 0.156819
+[17:01:37.142] idx 21 case patient04709 mean_dice 0.872594 mean_hd95 1.333333, mean_jacard 0.778550 mean_asd 0.280055
+[17:01:38.572] idx 22 case patient04801 mean_dice 0.902065 mean_hd95 1.000000, mean_jacard 0.823074 mean_asd 0.273707
+[17:01:39.983] idx 23 case patient04808 mean_dice 0.897622 mean_hd95 1.138071, mean_jacard 0.816944 mean_asd 0.293056
+[17:01:41.249] idx 24 case patient05301 mean_dice 0.942704 mean_hd95 1.000000, mean_jacard 0.892874 mean_asd 0.146993
+[17:01:42.508] idx 25 case patient05312 mean_dice 0.912360 mean_hd95 1.138071, mean_jacard 0.841399 mean_asd 0.222222
+[17:01:43.801] idx 26 case patient06801 mean_dice 0.928914 mean_hd95 1.000000, mean_jacard 0.870734 mean_asd 0.151854
+[17:01:45.076] idx 27 case patient06812 mean_dice 0.923024 mean_hd95 1.000000, mean_jacard 0.857425 mean_asd 0.181788
+[17:01:46.318] idx 28 case patient06901 mean_dice 0.938995 mean_hd95 1.000000, mean_jacard 0.886767 mean_asd 0.136774
+[17:01:47.561] idx 29 case patient06912 mean_dice 0.926148 mean_hd95 1.000000, mean_jacard 0.862849 mean_asd 0.163459
+[17:01:49.003] idx 30 case patient07201 mean_dice 0.948870 mean_hd95 1.000000, mean_jacard 0.903791 mean_asd 0.132517
+[17:01:50.449] idx 31 case patient07211 mean_dice 0.940464 mean_hd95 1.000000, mean_jacard 0.887621 mean_asd 0.154232
+[17:01:51.765] idx 32 case patient07601 mean_dice 0.962932 mean_hd95 1.000000, mean_jacard 0.929127 mean_asd 0.100376
+[17:01:53.385] idx 33 case patient07612 mean_dice 0.943011 mean_hd95 1.000000, mean_jacard 0.892293 mean_asd 0.168849
+[17:01:54.623] idx 34 case patient08001 mean_dice 0.945367 mean_hd95 1.000000, mean_jacard 0.898065 mean_asd 0.112542
+[17:01:55.648] idx 35 case patient08010 mean_dice 0.938333 mean_hd95 1.000000, mean_jacard 0.884173 mean_asd 0.131641
+[17:01:56.900] idx 36 case patient08701 mean_dice 0.932452 mean_hd95 1.000000, mean_jacard 0.876011 mean_asd 0.167986
+[17:01:58.437] idx 37 case patient08710 mean_dice 0.902141 mean_hd95 1.000000, mean_jacard 0.823406 mean_asd 0.252878
+[17:02:00.286] idx 38 case patient09401 mean_dice 0.919074 mean_hd95 1.000000, mean_jacard 0.852757 mean_asd 0.213243
+[17:02:01.741] idx 39 case patient09407 mean_dice 0.900689 mean_hd95 1.138071, mean_jacard 0.820682 mean_asd 0.257299
+[17:02:01.779] Mean class (1) spleen mean_dice 0.920570 mean_hd95 1.130433, mean_jacard 0.855340 mean_asd 0.216459
+[17:02:01.779] Mean class (2) right kidney mean_dice 0.891899 mean_hd95 1.031066, mean_jacard 0.806210 mean_asd 0.236740
+[17:02:01.779] Mean class (3) left kidney mean_dice 0.952893 mean_hd95 1.081948, mean_jacard 0.911767 mean_asd 0.182360
+[17:02:01.779] Testing performance in best val model: mean_dice : 0.921787 mean_hd95 : 1.081149, mean_jacard : 0.857772 mean_asd : 0.211853
