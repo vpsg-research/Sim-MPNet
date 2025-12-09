@@ -39,7 +39,7 @@
 [17:01:58.437] idx 37 case patient08710 mean_dice 0.902141 mean_hd95 1.000000, mean_jacard 0.823406 mean_asd 0.252878
 [17:02:00.286] idx 38 case patient09401 mean_dice 0.919074 mean_hd95 1.000000, mean_jacard 0.852757 mean_asd 0.213243
 [17:02:01.741] idx 39 case patient09407 mean_dice 0.900689 mean_hd95 1.138071, mean_jacard 0.820682 mean_asd 0.257299
-[17:02:01.779] Mean class (1) spleen mean_dice 0.920570 mean_hd95 1.130433, mean_jacard 0.855340 mean_asd 0.216459
-[17:02:01.779] Mean class (2) right kidney mean_dice 0.891899 mean_hd95 1.031066, mean_jacard 0.806210 mean_asd 0.236740
-[17:02:01.779] Mean class (3) left kidney mean_dice 0.952893 mean_hd95 1.081948, mean_jacard 0.911767 mean_asd 0.182360
+[17:02:01.779] Mean class (1) mean_dice 0.920570 mean_hd95 1.130433, mean_jacard 0.855340 mean_asd 0.216459
+[17:02:01.779] Mean class (2) mean_dice 0.891899 mean_hd95 1.031066, mean_jacard 0.806210 mean_asd 0.236740
+[17:02:01.779] Mean class (3) mean_dice 0.952893 mean_hd95 1.081948, mean_jacard 0.911767 mean_asd 0.182360
 [17:02:01.779] Testing performance in best val model: mean_dice : 0.921787 mean_hd95 : 1.081149, mean_jacard : 0.857772 mean_asd : 0.211853
