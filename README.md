@@ -1,5 +1,6 @@
+<div align="center">
 <h1> [ICCV'25 Highlight] Similarity Memory Prior is All You Need for Medical Image Segmentation </h1>
-
+</div>
 ## 🎈 News
 - [2025.6.25] Our work has been accepted by ICCV 2025！
 - [2025.7.24] Our work is selected as the highlight paper！
